@@ -8,7 +8,6 @@
 /frontend/build
 
 # misc
-/backend/config/config.env
 /frontend/.env.local
 /frontend/.env.development.local
 /frontend/.env.test.local
